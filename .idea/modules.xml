@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeCenter/codecenter.iml" filepath="$PROJECT_DIR$/CodeCenter/codecenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/luckmoney.iml" filepath="$PROJECT_DIR$/.idea/luckmoney.iml" />
+    </modules>
+  </component>
+</project>
